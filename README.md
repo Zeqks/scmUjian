@@ -8,3 +8,4 @@ Penjelasan Kandungan:
 7. Lesen: Maklumat tentang lesen projek.
 8. Kredit: Memberi penghargaan kepada alat atau individu yang membantu projek ini.
 9. Tangkapan Skrin: Memaparkan tangkapan skrin aplikasi untuk memberikan gambaran visual kepada pengguna.
+tambah skit
